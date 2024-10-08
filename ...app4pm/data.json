@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "rollno": "110",
+      "name": "shivam rawat1",
+      "city": "delhi",
+      "fess": "600000",
+      "id": "9be8"
+    },
+    {
+      "id": "2ac1",
+      "rollno": "6263",
+      "name": "s12",
+      "city": "hbd",
+      "fess": "1000000"
+    },
+    {
+      "id": "eb6d",
+      "rollno": "564654",
+      "name": "aadi",
+      "city": "fgggd",
+      "fess": "787878"
+    },
+    {
+      "id": "5014",
+      "rollno": "sgffhha",
+      "name": "jwkqkhxskq",
+      "city": "hsahxkhkxk",
+      "fess": "hxsjx"
+    },
+    {
+      "id": "3391",
+      "rollno": "104",
+      "name": "pushpendra",
+      "city": "up",
+      "fess": "18000"
+    },
+    {
+      "id": "c3a2",
+      "rollno": "111",
+      "name": "shivam rawat",
+      "city": "hbd",
+      "fess": "18000"
+    }
+  ]
+}
